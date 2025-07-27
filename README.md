@@ -49,7 +49,6 @@ This repository implements an email processing pipeline that leverages state-of-
 
    ```bash
    git clone https://github.com/Ankitsingh0805/MailMind.git
-   cd your-repo-name
    ```
 
 2. **Create and activate a virtual environment (recommended):**
